@@ -1,0 +1,13 @@
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.exe
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.deps.json
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.runtimeconfig.json
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.runtimeconfig.dev.json
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.dll
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\bin\Debug\netcoreapp3.1\LogicaProgramacao1.pdb
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.csprojAssemblyReference.cache
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.AssemblyInfoInputs.cache
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.AssemblyInfo.cs
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.csproj.CoreCompileInputs.cache
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.dll
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.pdb
+C:\repo\LogicaProgramacao1\LogicaProgramacao1\obj\Debug\netcoreapp3.1\LogicaProgramacao1.genruntimeconfig.cache
