@@ -5,19 +5,35 @@ namespace LogicaProgramacao1
     class Program
     {
         static void Main(string[] args)
-        { 
-            bool souRico = false;
-            double salario = 200000;
+        {
+            //// Entrada de Dados
+            Console.WriteLine("Digite seu nome");
+            string nome = Console.ReadLine();
+            Console.WriteLine($"O Seu Nome É {nome}");
 
-        if (souRico || salario >= 50000)
-            {
-               Console.WriteLine("Voce e rico ");
-            }
-        
+            ///Casting/Parse
+            
+            //int idade = 20;
+            //string frase = "A minha idade é: " + idade;
+            //Console.WriteLine(frase);
+            //bool booleano = true;
+            //string frase = "A terra é redonda?" + booleano;
+            //string idade = "20";
+            //string idade2 = "30";
+            //int somaIdade = Convert.ToInt32(idade) + Convert.ToInt32(idade2);
+            //Console.WriteLine(somaIdade);
 
-   
+        ////////////////////////////////////////////////////////////////////////////////////
+        /// Operações relacionais e lógicas.
+        //    bool souRico = false;
+        //    double salario = 200000;
 
-        //{
+        //if (souRico || salario >= 50000)
+        //    {
+        //       Console.WriteLine("Voce e rico ");
+        //    
+
+        //
         //    string sobremesa = "Pudim";
         //    bool estouAcimaDoPeso = false;
 
